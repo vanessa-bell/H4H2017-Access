@@ -10,3 +10,4 @@ node_modules
 tmp
 static/dist
 backend/google_api_keys.py
+backend/h4h_database.py
