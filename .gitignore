@@ -9,3 +9,4 @@ node_modules
 *.pyc
 tmp
 static/dist
+backend/google_api_keys.py
