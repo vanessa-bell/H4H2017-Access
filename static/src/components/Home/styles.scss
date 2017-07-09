@@ -1,0 +1,35 @@
+:local(.styles) {
+  background-color: white;
+  color: black;
+  height: 100vh;
+  display: flex;
+  min-width: 100%;
+  text-align: center;
+}
+
+:local(.hero__title) {
+    font-size: 10em;
+}
+
+:local(.btn) {
+    background-color: green !important;
+    border-radius: 50%;
+    width: 100px;
+}
+
+:local(.img) {
+    margin-top: 2em;
+}
+
+:local(.hero__description) {
+    font-size: 3em;
+}
+
+:local(.flex-grid) {
+  flex-direction: row;
+  margin: 0 0 20px 0;
+}
+:local(.flex-grid .col) {
+  flex: 1;
+  padding: 20px;
+}

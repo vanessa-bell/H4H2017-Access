@@ -1,0 +1,16 @@
+:local(.styles) {
+  text-align: center;
+  background-color: pink;
+  color: black;
+  height: 100vh;
+  display: flex;
+  width: 100%;
+}
+
+:local(.col) {
+    width: 300px;
+}
+
+:local(.body) {
+    padding: 5em;
+}

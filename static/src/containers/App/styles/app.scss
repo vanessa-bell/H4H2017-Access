@@ -4,10 +4,11 @@
 @import 'links';
 
 :global(body) {
-  position: relative;
-  font-family: 'Roboto', sans-serif !important;
-  h1, h2, h3, h4 {
-    font-weight: 300;
-  }
+    width: 100%;
+    position: relative;
+    font-family: 'Roboto', sans-serif !important;
+    h1, h2, h3, h4 {
+        font-weight: 300;
+    }
 
 }
